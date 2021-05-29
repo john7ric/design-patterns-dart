@@ -6,7 +6,7 @@ import 'package:design_patterns/state/canvas.dart' as state;
 void main() {
   state.Canvas canvas;
 
-  // Tests on the Editor class
+  // Tests on the Canvas class
   group('Pattern - tests on Brush implmentation', () {
     // sets up the canvas with Brush tool
     setUp(() {
