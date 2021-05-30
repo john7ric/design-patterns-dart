@@ -1,4 +1,4 @@
-import 'package:design_patterns/iterator/browser_history.dart';
+import 'package:design_patterns/behavioural_patterns/iterator/browser_history.dart';
 
 ///This class is used to demostrate the Iterator pattern
 ///

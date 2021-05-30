@@ -1,5 +1,5 @@
-import 'package:design_patterns/momento/history.dart';
-import 'package:design_patterns/momento/state.dart';
+import 'package:design_patterns/behavioural_patterns/momento/history.dart';
+import 'package:design_patterns/behavioural_patterns/momento/state.dart';
 
 /// Originator equivalent to the Momento Pattern
 ///

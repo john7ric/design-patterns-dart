@@ -1,7 +1,7 @@
-import 'package:design_patterns/state/tools/brush.dart';
-import 'package:design_patterns/state/tools/selection.dart';
+import 'package:design_patterns/behavioural_patterns/state/tools/brush.dart';
+import 'package:design_patterns/behavioural_patterns/state/tools/selection.dart';
 import 'package:test/test.dart';
-import 'package:design_patterns/state/canvas.dart' as state;
+import 'package:design_patterns/behavioural_patterns/state/canvas.dart' as state;
 
 void main() {
   state.Canvas canvas;

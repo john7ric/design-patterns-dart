@@ -1,4 +1,4 @@
-import 'package:design_patterns/state/tool.dart';
+import 'package:design_patterns/behavioural_patterns/state/tool.dart';
 
 ///class Equivalent to Concrete B in classoc State Pattern
 ///

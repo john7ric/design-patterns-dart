@@ -1,4 +1,4 @@
-import 'package:design_patterns/momento/editor.dart';
+import 'package:design_patterns/behavioural_patterns/momento/editor.dart';
 import 'package:test/test.dart';
 
 void main() {

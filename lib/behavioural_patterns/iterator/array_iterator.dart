@@ -1,4 +1,4 @@
-import 'package:design_patterns/iterator/history_iterator.dart';
+import 'package:design_patterns/behavioural_patterns/iterator/history_iterator.dart';
 
 /// Concrete implementation of Historyiterator
 ///

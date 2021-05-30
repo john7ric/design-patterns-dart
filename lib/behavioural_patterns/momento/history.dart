@@ -1,4 +1,4 @@
-import 'package:design_patterns/momento/state.dart';
+import 'package:design_patterns/behavioural_patterns/momento/state.dart';
 
 /// Caretaker equivalent to the Momento Pattern
 ///

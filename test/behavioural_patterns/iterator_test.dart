@@ -1,4 +1,4 @@
-import 'package:design_patterns/iterator/browser.dart';
+import 'package:design_patterns/behavioural_patterns/iterator/browser.dart';
 import 'package:test/test.dart';
 
 void main() {
