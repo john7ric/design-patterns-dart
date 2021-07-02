@@ -1,1 +1,1 @@
-Simple implementations for GoF design patterns in Dart.
+Simple implementation for GoF design patterns in Dart.
